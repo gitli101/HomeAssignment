@@ -28,6 +28,6 @@ In this task we want you to create a full stack app , that includes taking user 
 
 IMPORTANT : Use naming conventions for files and variables.    
 
-BONUS : CREATE A DOCKER FILE FOR A PRODUCTION READY ENVIRONMENT.    
+BONUS : Create a docker file for a production-ready environment.    
   
 GOOD LUCK ! 
