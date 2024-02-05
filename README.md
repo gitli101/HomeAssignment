@@ -26,7 +26,8 @@ In this task we want you to create a full stack app , that includes taking user 
 </details>
 
 
-IMPORTANT : Use naming conventions for files and variables.
-BONUS : CREATE A DOCKER FILE FOR A PRODUCTION READY ENVIRONMENT.
+IMPORTANT : Use naming conventions for files and variables.    
+
+BONUS : CREATE A DOCKER FILE FOR A PRODUCTION READY ENVIRONMENT.    
   
 GOOD LUCK ! 
