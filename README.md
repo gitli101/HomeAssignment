@@ -26,7 +26,7 @@ In this task we want you to create a full stack app , that includes taking user 
 </details>
 
 <details>
-  using the same technologies that we are using in our team is a grate bonus 
+  using the same technologies that we are using in our team is a grate bonus : 
   <summary>Recomended Technologies</summary>      
 
   Minio    
@@ -38,7 +38,7 @@ In this task we want you to create a full stack app , that includes taking user 
 
 </details>   
 
-NOTE : USE NAMING CONVENTIONS FOR FILES AND VARIABLES
-
+IMPORTANT : Use naming conventions for files and variables.
+BONUS : CREATE A DOCKER FILE FOR A PRODUCTION READY ENVIRONMENT.
   
 GOOD LUCK ! 
