@@ -28,6 +28,6 @@ For this task, we aim to build a full-stack web application. The application wil
 
 IMPORTANT : Use naming conventions for files and variables.    
 
-BONUS : Create a docker file for a production-ready environment.    
+BONUS : Create a `Dockerfile` for a production-ready environment.    
   
 GOOD LUCK ! 
