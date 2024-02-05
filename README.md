@@ -1,7 +1,7 @@
 # Assignment
 
 
-In our team we are using some software technologies that we want you to be familiar with and also demonstrate your ability to understand and work with them.
+In our team, we leverage specific software technologies, We want you to demonstrate your ability to comprehend and effectively work with the technologies integral to our team's workflow.
 
 For this task, we aim to build a full-stack web application. The application will accept user input via a well-designed user interface, process the data according to the requirements, and perform CRUD operations on a chosen database.
 
