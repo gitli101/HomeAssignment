@@ -1,4 +1,4 @@
-# Home Assignment
+# Assignment
 
 
 In our team we are using some software technologies that we want you to be familiar with and also demonstrate your ability to understand and work with them.
