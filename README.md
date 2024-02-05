@@ -5,8 +5,8 @@ In our team, we leverage specific software technologies, We want you to demonstr
 
 For this task, we aim to build a full-stack web application. The application will accept user input via a well-designed user interface, process the data according to the requirements, and perform CRUD operations on a chosen database.
 
-IMPORTANT : - Use naming conventions for files and variables.   
-            - Use git flow.    
+ - Use naming conventions for files and variables.   
+ - Use git flow.    
 
 <details>
   <summary>Frontend</summary>
