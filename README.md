@@ -1,10 +1,13 @@
-# Home Assignment
+# Assignment
 
 
-In our team we are using some software technologies that we want you to be familiar with and also demonstrate your ability to understand and work with them.
+In our team, we leverage specific software technologies, We want you to demonstrate your ability to comprehend and effectively work with the technologies integral to our team's workflow.
 
-In this task we want you to create a full stack app , that includes taking user input from a well designed UI and then preforming some procesing on the data, and then doing some CRUD operations with a selected DB.
+For this task, we aim to build a full-stack web application. The application will accept user input via a well-designed user interface, process the data according to the requirements, and perform CRUD operations on a chosen database.
 
+NOTE : 
+- Use naming conventions for files and variables.   
+- Use git flow.    
 
 <details>
   <summary>Frontend</summary>
@@ -21,22 +24,12 @@ In this task we want you to create a full stack app , that includes taking user 
   - Extract metadata and store it .
   - store the files , and check for duplications.
   - Create tests.
-  - Use git flow.   
+     
 
 </details>
 
-<details>
-  using the same technologies that we are using in our team is a grate bonus 
-  <summary>Recomended Technologies</summary>
 
-  Minio    
-  Mongodb    
-  Node js    
-  React js     
-  TypeScript      
-  Docker    
-
-</details>   
+BONUS : Create a `Dockerfile` for a production-ready environment.    
 
   
 GOOD LUCK ! 
