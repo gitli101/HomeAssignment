@@ -25,18 +25,6 @@ In this task we want you to create a full stack app , that includes taking user 
 
 </details>
 
-Using the same technologies that we are using in our team is a grate bonus : 
-<details>
-  <summary>Recomended Technologies</summary>      
-
-  Minio    
-  Mongodb    
-  Node js    
-  React js     
-  TypeScript      
-  Docker    
-
-</details>   
 
 IMPORTANT : Use naming conventions for files and variables.
 BONUS : CREATE A DOCKER FILE FOR A PRODUCTION READY ENVIRONMENT.
