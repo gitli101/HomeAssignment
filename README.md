@@ -27,7 +27,7 @@ In this task we want you to create a full stack app , that includes taking user 
 
 <details>
   using the same technologies that we are using in our team is a grate bonus 
-  <summary>Recomended Technologies</summary>
+  <summary>Recomended Technologies</summary>      
 
   Minio    
   Mongodb    
@@ -37,6 +37,8 @@ In this task we want you to create a full stack app , that includes taking user 
   Docker    
 
 </details>   
+
+NOTE : USE NAMING CONVENTIONS FOR FILES AND VARIABLES
 
   
 GOOD LUCK ! 
