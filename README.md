@@ -34,8 +34,8 @@ NOTE :
   - Extract metadata and store it .  
   - store the files , and check for duplications.
   - API endpoints :
-    - `POST -> /file ` + some metadata.
-    - `GET ->  /statistics?querytype=avgsizebytype` .   
+    - `POST -> /file ` .
+    - `GET ->  /statistics` .   
      
 
 </details>
