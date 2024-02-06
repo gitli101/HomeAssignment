@@ -35,7 +35,8 @@ NOTE :
   - store the files , and check for duplications.
   - API endpoints :
     - `POST -> /file ` .
-    - `GET ->  /statistics` .   
+    - `GET ->  /statistics` .
+    - `DELETE -> /filename`.  
      
 
 </details>
