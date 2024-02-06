@@ -33,7 +33,7 @@ NOTE :
   - Create a server for the UI and Preform validations on files.
   - Extract metadata and store it .  
   - store the files , and check for duplications.
-  - API endpoints :
+  - Required API endpoints :
     - `POST -> /file ` .
     - `GET ->  /statistics` .
     - `DELETE -> /filename`.  
