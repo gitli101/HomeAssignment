@@ -15,9 +15,13 @@ NOTE :
 <details>
   <summary>Frontend</summary>  
   
-- Create an initial screen for uploding files using drag and drop box and also using the file explorer.  
-- Create a feature that enables the user to view ongoing work processes.
-- Create a feature that enables the user to view upload history.  
+- Create an initial screen for uploding files using drag and drop box and also using the file explorer.   
+- Create a feature that enables the user to view ongoing file uploads.
+- Create a new window that shows the folowing statistics :  
+    - Upload time compared to file size.  
+    - Average file size categorized by file type.  
+    - Segregation of file types based on upload success and failure rates.   
+    - Sorting files by upload date and total daily size.  
 
 </details>
 
@@ -26,8 +30,8 @@ NOTE :
 
   - Deploy the infrastructure from the `docker-compose.yaml` file.
   - Create a server for the UI and Preform validations on files.
-  - Extract metadata and store it .
-  - store the files , and check for duplications.
+  - Extract metadata and store it .  
+  - store the files , and check for duplications.  
      
 
 </details>
