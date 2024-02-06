@@ -32,7 +32,7 @@ NOTE :
   - Deploy the infrastructure from the `docker-compose.yaml` file.
   - Create a server for the UI and Preform validations on files.
   - Extract metadata and store it .  
-  - store the files , and check for duplications.
+  - store the files in minio, and check for duplications.
   - Required API endpoints :
     - `POST -> /file ` .
     - `GET ->  /statistics` .
