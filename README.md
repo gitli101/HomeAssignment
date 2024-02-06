@@ -17,7 +17,7 @@ NOTE :
   
 - Make the UI similar to this [example](https://www.figma.com/file/d8dGyuJIbrbdJzEN0l3lSI/home-assignment-web-app-design?type=design&node-id=0-1&mode=design&t=MKpkjPgyLBMpddqf-0) as much as you can.  
 - Create an initial screen for uploding files using drag and drop box and also using the file explorer.   
-- Create a feature that enables the user to view ongoing file uploads.
+- Create a feature that enables the user to view a list of all files ever uploaded and also ongoing file uploads.   
 - Create a new window that shows the folowing statistics (choose at least 3) :  
     - Upload time compared to file size.  
     - Average file size categorized by file type.  
@@ -34,9 +34,9 @@ NOTE :
   - Extract metadata and store it .  
   - store the files in minio, and check for duplications.
   - Required API endpoints :
-    - `POST -> /file ` .
-    - `GET ->  /statistics` .
-    - `DELETE -> /filename`.  
+    - `POST -> /file `  To Upload a new file.
+    - `GET ->  /statistics`  To Get the raw statistics data.
+    - `DELETE -> /filename` To Delete a file by its name .   
      
 
 </details>
