@@ -15,7 +15,7 @@ NOTE :
 <details>
   <summary>Frontend</summary>   
   
-- Make the UI similar to this [example](https://shorturl.at/qCIY5) as much as you can.  
+- Make the UI similar to this [example]([https://shorturl.at/qCIY5](https://www.figma.com/file/d8dGyuJIbrbdJzEN0l3lSI/home-assignment-web-app-design?type=design&node-id=0-1&mode=design&t=MKpkjPgyLBMpddqf-0)) as much as you can.  
 - Create an initial screen for uploding files using drag and drop box and also using the file explorer.   
 - Create a feature that enables the user to view ongoing file uploads.
 - Create a new window that shows the folowing statistics (choose at least 3) :  
