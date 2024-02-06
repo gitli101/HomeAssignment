@@ -13,7 +13,8 @@ NOTE :
   
 
 <details>
-  <summary>Frontend</summary>  
+  <summary>Frontend</summary>   
+  
 - Make the UI simmilar to this [example](https://shorturl.at/qCIY5) as much as you can.  
 - Create an initial screen for uploding files using drag and drop box and also using the file explorer.   
 - Create a feature that enables the user to view ongoing file uploads.
