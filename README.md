@@ -8,6 +8,7 @@ For this task, we aim to build a full-stack web application. The application wil
 NOTE : 
 - Use naming conventions for files and variables.   
 - Use git flow.    
+- Create tests.
 
 <details>
   <summary>Frontend</summary>
@@ -23,7 +24,6 @@ NOTE :
   - Create a server for the UI and Preform validations on files.
   - Extract metadata and store it .
   - store the files , and check for duplications.
-  - Create tests.
      
 
 </details>
