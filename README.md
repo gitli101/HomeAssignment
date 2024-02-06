@@ -29,7 +29,7 @@ NOTE :
 <details>
   <summary>Backend</summary>
 
-  - Deploy the infrastructure from the `docker-compose.yaml` file.
+  - Deploy localy the infrastructure from the `docker-compose.yaml` file.
   - Create a server for the UI and Preform validations on files.
   - Extract metadata and store it .  
   - store the files in minio, and check for duplications.
