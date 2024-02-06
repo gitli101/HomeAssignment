@@ -9,11 +9,15 @@ NOTE :
 - Use naming conventions for files and variables.   
 - Use git flow.    
 - Create tests.
+- Make the UI simmilar to this [example](https://www.figma.com/file/d8dGyuJIbrbdJzEN0l3lSI/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%9E%D7%A8%D7%A5-2024?type=design&node-id=0-1&mode=design) as much as you can
+- 
 
 <details>
-  <summary>Frontend</summary>
-
-  - Create a user interface for uploading files ,Make sure that it looks like the [example](https://www.figma.com/file/d8dGyuJIbrbdJzEN0l3lSI/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%9E%D7%A8%D7%A5-2024?type=design&node-id=0-1&mode=design) we provided as much as you can.
+  <summary>Frontend</summary>  
+  
+- Create an initial screen for uploding files using drag and drop box and also using the file explorer.  
+- Create a feature that enables the user to view ongoing work processes.
+- Create a feature that enables the user to view upload history.  
 
 </details>
 
