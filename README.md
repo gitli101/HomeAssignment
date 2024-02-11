@@ -22,7 +22,7 @@ NOTE :
     - Upload time compared to file size.  
     - Average file size categorized by file type.  
     - Segregation of file types based on upload success and failure rates.   
-    - Sorting files by upload date and total daily size.  
+    - Sorting files by upload date and total daily upload size.  
 
 </details>
 
